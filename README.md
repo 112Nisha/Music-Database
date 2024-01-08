@@ -1,4 +1,4 @@
-# Euterpe: Your Music Database
+# Euterpe: Music Database
 
 Welcome to Euterpe, named after the Greek muse of music! This music database offers a range of functionalities across 8 main pages, each tailored to enhance the user's music exploration experience:
 
